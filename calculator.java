@@ -1,3 +1,4 @@
+/* just for demo */
 import java.util.Scanner;
 
  public class calculator
@@ -53,6 +54,6 @@ import java.util.Scanner;
 	                break;
 	   }
 																	            System.out.print("\n---------------------------------------\n");
-	}while(choice != 5);       
+	 }while(choice != 5);       
     }
-}
+  }
